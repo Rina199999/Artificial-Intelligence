@@ -7,6 +7,7 @@ WEATHER_TRANSLATIONS = {
     "Overcast": "Пасмурно",
     "Sunny": "Ясно",
     "Clear": "Ясно",
+    "Clear ": "Ясно",
     "Rain": "Дождь",
     "Light rain": "Небольшой дождь",
     "Light rain ": "Небольшой дождь",

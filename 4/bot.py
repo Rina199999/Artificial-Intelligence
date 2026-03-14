@@ -20,6 +20,10 @@ class ChatBot:
         self.patterns = patterns.get_patterns(self)
         self.state = DialogState.START
 
+    def update_state(self, new_state):
+        self.state = new_state
+        logger.save_state(new_state)
+
     def set_name(self, match):
         new_name = match.group(1)
         self.name = new_name
@@ -79,4 +83,5 @@ if __name__ == "__main__":
 
         response = bot.process(user_input)
         print(f"[{datetime.now().strftime('%H:%M:%S')}] Бот: {response}")
-        logger.log_message(user_input, response)
+
+        logger.log_message(user_input, response, bot.state)
