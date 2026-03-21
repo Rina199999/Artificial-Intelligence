@@ -1,0 +1,87 @@
+text,intent
+привет,greeting
+здравствуйте,greeting
+добрый день,greeting
+доброе утро,greeting
+добрый вечер,greeting
+приветик,greeting
+салют,greeting
+хай,greeting
+хеллоу,greeting
+здравствуй,greeting
+приветствую,greeting
+здорово,greeting
+эй бот,greeting
+рада тебя видеть,greeting
+привет бот,greeting
+доброго времени суток,greeting
+ку,greeting
+хочу пообщаться,greeting
+ты тут,greeting
+начать диалог,greeting
+погода,weather
+какая погода,weather
+погода на сегодня,weather
+сколько градусов на улице,weather
+будет ли дождь,weather
+прогноз погоды,weather
+какая сейчас температура,weather
+скажи погоду,weather
+на улице холодно,weather
+будет ли холодно,weather
+будет ли жарко,weather
+тепло ли сейчас,weather
+солнечно ли сегодня,weather
+нужна погода,weather
+какая погода в москве,weather
+что там с погодой,weather
+идет ли снег,weather
+ожидаются ли осадки,weather
+какой прогноз на день,weather
+градусник что показывает,weather
+нужно ли брать зонт,weather
+как одеваться на улицу,weather
+погода в уфе,weather
+температура воздуха,weather
+ветер сильный сегодня,weather
+атмосферное давление,weather
+влажность воздуха,weather
+пасмурно или ясно,weather
+погода на завтра,weather
+погода сейчас,weather
+пока,goodbye
+до свидания,goodbye
+прощай,goodbye
+до скорого,goodbye
+увидимся,goodbye
+счастливо,goodbye
+удачного дня,goodbye
+все пока,goodbye
+завершить диалог,goodbye
+до завтра,goodbye
+мне пора,goodbye
+бб,goodbye
+бай бай,goodbye
+выход,goodbye
+отключиться,goodbye
+конец связи,goodbye
+спокойной ночи,goodbye
+хорошего вечера,goodbye
+удачи,goodbye
+спасибо,thanks
+благодарю,thanks
+спасибо большое,thanks
+ты мне очень помог,thanks
+отлично спасибо,thanks
+благодарствую,thanks
+респект,thanks
+круто спасибо,thanks
+ценная информация,thanks
+спасибо за помощь,thanks
+сенкс,thanks
+ты лучший бот,thanks
+спасибочки,thanks
+огромное спасибо,thanks
+выручил,thanks
+понятно спасибо,thanks
+все ясно благодарю,thanks
